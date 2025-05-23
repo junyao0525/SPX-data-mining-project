@@ -100,4 +100,3 @@ Log files are generated under the `/logs` directory:
 
 ---
 
-# SPX-data-mining-project
